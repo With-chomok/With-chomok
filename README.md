@@ -8,21 +8,21 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=With-chomok&color=red)
 
-Skills:Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 
 </div>
 
 - 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning javascript,reactjs, Golang, Java, C++
+- 🌱 I’m currently learning javascript AND others Framework.
 
 - 👨‍💻 All of my projects are available at [https://github.com/With-chomok](https://github.com/With-chomok)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, tailwind**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **dipoldaschomok@gmail.com**
 
 
 
@@ -30,7 +30,6 @@ Skills:Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="https://www.facebook.com/dipoldas1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipoldas1122" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="With-chomok" height="30" width="40" /></a>
 <a href="https://codepen.io/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="With-chomok" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
@@ -89,9 +88,9 @@ Skills:Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <a href="https://github.com/With-chomok"><img alt="Dipol's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=With-chomok&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
+<a
 ![Dipol's Graph](https://github-readme-activity-graph.vercel.app/graph?username=With-chomok&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+/></a>
 <br/>
 
 <br/>
