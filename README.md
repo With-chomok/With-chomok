@@ -65,7 +65,9 @@ Skills:JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=With-chomok&repo=With-chomok&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)][(https://github.com/With-chomok/Java-Project)](https://github.com/With-chomok/With-chomok)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=With-chomok&repo=With-chomok&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]
+<br/>
+[(https://github.com/With-chomok/Java-Project)](https://github.com/With-chomok/With-chomok)
 
 <p align="left">
   <a href="https://github.com/With-chomok?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -88,9 +90,9 @@ Skills:JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
   <a href="https://github.com/With-chomok"><img alt="Dipol's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=With-chomok&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-<a
-![Dipol's Graph](https://github-readme-activity-graph.vercel.app/graph?username=With-chomok&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-/></a>
+
+![Dipol's Graph](https://github-readme-activity-graph.vercel.app/graph?username=With-chomok&custom_title=Dipol's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 <br/>
 
 <br/>
