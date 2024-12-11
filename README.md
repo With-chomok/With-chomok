@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator |Digital marketer</h3>
-<h4 align="center">student at Hablu Programmer</h4>
+<h4 align="center">I'm DIPOL DAS CHOMOK, a Frontend Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator).I spend most of my time coding outstanding projects. I also do research about coding. I am always looking for new ways to improve my skills And I am currently a student at Hablu Programmer. I am passionate about coding and enjoy learning new languages and technologies.</h4>
 
 <div align="center">
 
@@ -17,9 +17,11 @@ Skills:JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 - 🌱 I’m currently learning javascript AND others Framework.
 
 - 👨‍💻 All of my projects are available at [https://github.com/With-chomok](https://github.com/With-chomok)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
+ 
+- ♥️  I enjoy programming and sharing knowledge
+ 
+- 💻  Most used line of code console.log("hello world")
+ 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, tailwind**
 
 - 📫 How to reach me **dipoldaschomok@gmail.com**
@@ -81,7 +83,7 @@ Skills:JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 
 <p align="center">
   <a href="https://github.com/With-chomok">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[With-chomok](https://github.com/With-chomok/With-chomok)&theme=radical" alt="Dipol's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[With-chomok](https://github.com/With-chomok/With-chomok)theme=radical" alt="Dipol's GitHub Contribution"/>
   </a>
 </p>
 
