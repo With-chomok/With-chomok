@@ -1,4 +1,4 @@
-![I am With-chomok](![image](https://github.com/user-attachments/assets/c179f8b1-636c-4cc6-b516-8c76e3340542)
+![I am With-chomok](![image](https://github.com/user-attachments/ban.png)
 )
 
 <h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
