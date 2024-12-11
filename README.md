@@ -82,9 +82,10 @@ Skills: JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 
 <p align="center">
   <a href="https://github.com/With-chomok">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[With-chomok](https://github.com/With-chomok/With-chomok)theme=radical" alt="Dipol's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=With-chomok&theme=radical" alt="Dipol's GitHub Contribution"/>
   </a>
 </p>
+
 
 <a> 
     <a href="https://github.com/With-chomok"><img alt="Dipol's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=With-chomok&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
