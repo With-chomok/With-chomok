@@ -68,11 +68,10 @@ Skills: JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 ## Best Repo -
 
 [![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=With-chomok&repo=With-chomok&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]
-<br/>
-[![Java Projects](https://github.com/With-chomok/Java-Project)](https://github.com/With-chomok/With-chomok)
+
 
 <p align="left">
-  <a href="https://github.com/With-chomok?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/With-chomok?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
