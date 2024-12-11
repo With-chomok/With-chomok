@@ -1,4 +1,5 @@
-![I am With-chomok]([https://github.com/With-chomok/With-chomok/blob/main/code.png](https://files.oaiusercontent.com/file-4YN9Yeinb2qWG5pnLWKDq2?se=2024-12-11T06%3A08%3A39Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D63544517-c11c-4506-8789-c2df09437c7b.webp&sig=inDMv1MBIoSvWnEIoPufakpks/E3USe5eQg%2B7potOIU%3D))
+![I am With-chomok](![image](https://github.com/user-attachments/assets/c179f8b1-636c-4cc6-b516-8c76e3340542)
+)
 
 <h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator |Digital marketer</h3>
