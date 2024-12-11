@@ -1,6 +1,6 @@
 ![I am With-chomok](https://github.com/With-chomok/With-chomok/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
+<h1 align="center">Hi <img src="assets/hello.gif" width="28px" alt="hi">, I'm DIPOL DAS CHOMOK(Chomok)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator |Digital marketer</h3>
 <h4 align="center">student at Hablu Programmer</h4>
 
