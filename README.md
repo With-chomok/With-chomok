@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+
 
 
 <h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
@@ -13,7 +13,7 @@ Skills: JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 
 </div>
 
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning on ANY YouTube PROGRAMMING VEDIO.
 
 - 🌱 I’m currently learning javascript AND others Framework.
 
@@ -23,7 +23,7 @@ Skills: JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
  
 - 💻 Most used line of code console.log("hello world")
  
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, tailwind**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, tailwind, JavaScript, Node.Js, React.Js**
 
 - 📫 How to reach me **dipoldaschomok@gmail.com**
 
