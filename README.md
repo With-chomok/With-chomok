@@ -1,4 +1,4 @@
-
+![I am With-chomok](https://github.com/With-chomok/With-chomok/blob/main/codes.png)
 
 
 <h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
