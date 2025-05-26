@@ -1,7 +1,7 @@
 ![I am With-chomok](https://github.com/With-chomok/With-chomok/blob/main/codes.png)
 
 
-<h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK(Chomok)</h1>
+<h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator |Digital marketer</h3>
 <h4 align="center">I'm DIPOL DAS CHOMOK, a Frontend Web Developer from Bangladesh and Content Creator).I spend most of my time coding outstanding projects. I also do research about coding. I am always looking for new ways to improve my skills And I am currently a student at Hablu Programmer. I am passionate about coding and enjoy learning new languages and technologies.</h4>
 
