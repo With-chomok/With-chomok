@@ -1,21 +1,25 @@
-![I am With-chomok](https://github.com/With-chomok/With-chomok/blob/main/codes.png)
+![I am With-chomok](https://github.com/With-chomok/With-chomok/blob/main/git.png)
 
 
 <h1 align="center">Hi 👋, I'm DIPOL DAS CHOMOK</h1>
 <h3 align="center"> A passionate Front-End Web Developer</h3>
-<h4 align="center">I'm DIPOL DAS CHOMOK, a Frontend Web Developer from Bangladesh and Content Creator.I spend most of my time coding outstanding projects. I also do research about coding.I am always looking for new ways to improve my skills And I am currently a student at Programming Hero.I am passionate about coding and enjoy learning new languages and technologies.</h4>
+<h4 align="center">Hi, I'm Dipol Das Chomok, a Frontend Web Developer from Bangladesh.  
+I enjoy learning new technologies, building web projects, and improving my coding skills.  
+Currently focused on React.js, Next.js, and exploring backend technologies like Node.js and MongoDB.  
+Always eager to learn, collaborate, and contribute to impactful projects.
+</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=With-chomok&color=red)
 
-Skills: JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
+Skills: HTML5 / CSS3 /TAILWIND /BOOTSTRAP /React Js / Next JS
 
 </div>
 
 - 🔭 I’m currently learning on ANY YouTube PROGRAMMING VEDIO.
 
-- 🌱 I’m currently learning javascript AND others Framework.
+- 🌱 I’m working on a "Blood-Donation" website.
 
 - 👨‍💻 All of my projects are available at [https://github.com/With-chomok](https://github.com/With-chomok)
  
@@ -25,20 +29,16 @@ Skills: JS / PYTHON / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
  
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, tailwind, JavaScript, Node.Js, React.Js**
 
-- 📫 How to reach me **dipoldaschomok@gmail.com**
-
+- 📫 How to reach me **dipoldas182@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
 <a href="https://www.facebook.com/dipoldas1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipoldas1122" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/dipoldas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="With-chomok" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="With-chomok" height="30" width="40" /></a>
 <a href="https://codepen.io/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="With-chomok" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="With-chomok" height="30" width="40" /></a>
-<a href="https://dribbble.com/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="With-chomok" height="30" width="40" /></a>
-<a href="https://www.behance.net/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="With-chomok" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
