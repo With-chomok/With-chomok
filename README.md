@@ -37,8 +37,7 @@ Skills: HTML5 / CSS3 /TAILWIND /BOOTSTRAP /React Js / Next JS
 <p align="center">
 <a href="https://www.facebook.com/dipoldas1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipoldas1122" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/dipoldas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="With-chomok" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="With-chomok" height="30" width="40" /></a>
-<a href="https://codepen.io/With-chomok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="With-chomok" height="30" width="40" /></a>
+<a href="https://x.com/dipol_das34765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="With-chomok" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
